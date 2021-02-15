@@ -1,7 +1,9 @@
 # Davis-Putnam algorithm
 
 This program implements the Davis-Putnam algorithm.
+
 The input to the Davis-Putnam procedure has the following form:
+
 An atom is denoted by a natural number: 1, 2, 3, ....
 
 For example, you can think 1 as referring to the literal P and -1 as referring to the literal 6=P. A clause is a line of text containing the integers of the corresponding literals. 
