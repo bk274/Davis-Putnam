@@ -82,6 +82,6 @@ You will also be prompted to enter the desired path to the output file.
 
 
 ```
-![alt text](https://ibb.co/cvP0CmJ)
+![alt text](https://i.imgur.com/Ne3zSVE.png)
 
 
